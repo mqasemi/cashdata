@@ -1,5 +1,6 @@
 Include/*
 Lib/*
 Scripts/*
+cashdata/*
 *.csv
 *.cfg
